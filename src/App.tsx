@@ -10,7 +10,9 @@ function App() {
           ejercicio, se dispare un flujo de build y despliegue.
         </li>
         <li>Usar Github Actions para esto.</li>
-        <li>A green check should appear after commit</li>
+        <li style={{ fontSize: "10px" }}>
+          A green check should appear after commit
+        </li>
       </ul>
     </>
   );
