@@ -6,7 +6,7 @@ function App() {
       <h1>Automatic deployment</h1>
       <ul style={{ listStyle: "none" }}>
         <li>
-          Queremos que cada vez que se haga un merge a la rama principal de este
+          Queremos que cada vez que se haga un push a la rama principal de este
           ejercicio, se dispare un flujo de build y despliegue.
         </li>
         <li>Usar Github Actions para esto.</li>
